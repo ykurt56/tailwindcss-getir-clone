@@ -1,6 +1,7 @@
 # React + Vite + Tailwind css
 
 Tailwindcss Kullanarak Getir'in Anasayfasını responsive olarak clonlayıp tailwindcss öğrenip pratik yaptığım bir çalışma
+LİVE : https://getirclone-ykurt.netlify.app/
 
 ## Responsive Görünümleri
 
